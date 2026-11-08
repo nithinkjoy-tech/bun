@@ -4,7 +4,7 @@ register_repository(
   REPOSITORY
     google/highway
   COMMIT
-    12b325bc1793dee68ab2157995a690db859fe9e0
+    2607d3b5b0113992fe84d3848859eae13b3b52c1
 )
 
 set(HIGHWAY_CMAKE_ARGS
